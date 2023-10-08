@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "69b24578a724c380",
@@ -128,8 +129,17 @@
                 "file": "语言学/脑与语言.md"
               }
             }
+          },
+          {
+            "id": "e7a966f27ac75427",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,5 +157,7 @@
     }
   },
   "active": "1f587e7a4b2abacb",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "语言学/脑与语言.md"
+  ]
 }
