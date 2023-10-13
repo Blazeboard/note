@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语言学/脑与语言.md",
+                "file": "语言学/形态学.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "69b24578a724c380",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语言学/脑与语言.md",
+                "file": "语言学/形态学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语言学/脑与语言.md",
+                "file": "语言学/形态学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语言学/脑与语言.md"
+                "file": "语言学/形态学.md"
               }
             }
           },
@@ -157,11 +158,11 @@
   },
   "active": "1f587e7a4b2abacb",
   "lastOpenFiles": [
+    "语言学/脑与语言.md",
     "语言学/形态学.md",
     "NLP",
     "女性主义",
     "哲学",
-    "语言学/脑与语言.md",
     "语言学/语言是什么？.md"
   ]
 }
